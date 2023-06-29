@@ -2,7 +2,9 @@
 Microsoft AZ-104: Azure Administrator Associate Study Notes
 
 # Disclaimer
-Do not rely on these notes to pass the exam.
+Do not rely on these notes to pass the exam. It's advised to use Microsoft's study guide for the exam: https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-104
+
+Microsoft has listed several study resources on their study guide.
 
 ## Skills measured as of April 27, 2023
 
