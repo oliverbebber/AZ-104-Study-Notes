@@ -6,6 +6,13 @@ Do not rely on these notes to pass the exam. It's advised to use Microsoft's stu
 
 Microsoft has listed several study resources on their study guide.
 
+Additional Microsoft resources:
+- [Manage Azure Identities & Governance Video](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-104-manage-azure-identities-and-governance-1-of-5)
+- [Implement & Manage Storage Video](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-104-implement-and-manage-storage-2-of-5)
+- [Deploy & Manage Azure Compute Resources Video](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-104-deploy-and-manage-azure-compute-resources-3-of-5)
+- [Configure & Manage Virtual Networking Video](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-104-configure-and-manage-virtual-networking-4-of-5)
+- [Monitor & Backup Azure Resources Video](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-104-monitor-and-maintain-azure-resources-5-of-5)
+
 ## Skills measured as of July 28, 2023
 
 ### Audience profile
